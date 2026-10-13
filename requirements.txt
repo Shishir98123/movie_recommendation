@@ -1,6 +1,7 @@
-
-streamlit==1.65.0
-requests
+fastapi==0.143.0
+uvicorn==0.54.0
+python-dotenv==1.2.3
+httpx==0.28.1
 pandas==2.2.3
 numpy==2.2.3
 scipy==1.15.1
